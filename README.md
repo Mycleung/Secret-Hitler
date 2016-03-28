@@ -1,4 +1,4 @@
-# Secret Hitler
+# Secret Hitler for Robots
 ### (In Python)
 
 This is a quick day-hack project to write the board game Secret Hitler (http://www.secrethitler.com) in Python.
